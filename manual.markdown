@@ -215,7 +215,7 @@ Segue una lista di comandi utili.
 | G | Disegna la superficie descritta mediante i punti di controllo in scena |
 
 Per **ruotare la camera nella direzione desiderata** si può **cliccare con il tasto destro del mouse** in un punto qualsiasi della scena, tenerlo premuto e muovere il cursore.
-In caso si possegga un Mac, si può **tenere premuto CTRL mentre si clicca e tiene premuto il mouse** per muovere la camera in una determinata direzione.
+In caso si possegga un Mac, si può **tenere premuto CTRL e contemporaneamente cliccare e tenere premuto il tasto del mouse** per ruotare la camera in una determinata direzione.
 
 <div class='infoimagecontainer'>
 <img class='infoimage' src="assets/images/RedDifferentAngle.png">
